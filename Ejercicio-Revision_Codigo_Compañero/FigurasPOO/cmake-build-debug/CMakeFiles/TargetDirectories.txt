@@ -1,0 +1,3 @@
+D:/Documents/Javeriana/tercer/POO/POO2022-1CACP/Ejercicio-Revision_Codigo_Compañero/FigurasPOO/cmake-build-debug/CMakeFiles/FigurasPOO.dir
+D:/Documents/Javeriana/tercer/POO/POO2022-1CACP/Ejercicio-Revision_Codigo_Compañero/FigurasPOO/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documents/Javeriana/tercer/POO/POO2022-1CACP/Ejercicio-Revision_Codigo_Compañero/FigurasPOO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
