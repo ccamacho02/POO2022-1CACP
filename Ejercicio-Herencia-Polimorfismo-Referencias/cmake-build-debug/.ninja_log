@@ -1,0 +1,17 @@
+# ninja log v5
+1	1291	6702698416745752	CMakeFiles/EjercicioPolimorfismoHerencia.dir/main.cpp.obj	3f67892fafcbd4ae
+1295	1949	6702698423292745	EjercicioPolimorfismoHerencia.exe	9648c30188a76021
+195	4356	6705748802228885	CMakeFiles/EjercicioPolimorfismoHerencia.dir/Daily_Employee.cpp.obj	e1973633cf01f898
+199	4358	6705748802238858	CMakeFiles/EjercicioPolimorfismoHerencia.dir/Commission_Employee.cpp.obj	6dd2a862e9f58f15
+9	4360	6705748802248824	CMakeFiles/EjercicioPolimorfismoHerencia.dir/Employee.cpp.obj	5db3e6c61a5486f9
+178	4364	6705748802238858	CMakeFiles/EjercicioPolimorfismoHerencia.dir/Salaried_Employee.cpp.obj	8b0c0ddf647b40e5
+190	4376	6705748802318639	CMakeFiles/EjercicioPolimorfismoHerencia.dir/Hourly_Employee.cpp.obj	180cd59f956b2001
+10	3060	6705750275657447	CMakeFiles/EjercicioPolimorfismoHerencia.dir/main.cpp.obj	3f67892fafcbd4ae
+6	879	6705751917119896	CMakeFiles/EjercicioPolimorfismoHerencia.dir/BasePlus_Commission_Employee.cpp.obj	f49ab6de848c5770
+880	3201	6705751940307142	EjercicioPolimorfismoHerencia.exe	d8e8f267784b3b5d
+6	1034	6705755118047105	CMakeFiles/EjercicioPolimorfismoHerencia.dir/main.cpp.obj	3f67892fafcbd4ae
+1035	1434	6705755121937965	EjercicioPolimorfismoHerencia.exe	d8e8f267784b3b5d
+5	1036	6705755487119377	CMakeFiles/EjercicioPolimorfismoHerencia.dir/main.cpp.obj	3f67892fafcbd4ae
+1037	1325	6705755489960660	EjercicioPolimorfismoHerencia.exe	d8e8f267784b3b5d
+7	809	6705756930990460	CMakeFiles/EjercicioPolimorfismoHerencia.dir/Employee.cpp.obj	5db3e6c61a5486f9
+810	1104	6705756933942533	EjercicioPolimorfismoHerencia.exe	d8e8f267784b3b5d
